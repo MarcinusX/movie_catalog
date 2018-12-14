@@ -1,7 +1,8 @@
-# movie_catalog
+# Movie Catalog
 
-A new Flutter project.
+This app was created from scratch during first [Flutter Lodz Meetup](https://www.meetup.com/pl-PL/%C5%81od%C5%BA-Flutter-Meetup/) event.
 
+![Result](screenshot.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
